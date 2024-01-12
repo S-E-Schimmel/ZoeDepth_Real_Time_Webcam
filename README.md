@@ -2,7 +2,7 @@ Adapted version of DistDepth to use the webcam of a laptop as input.<br />
 <br />
 Run Metric_Depth_Prediction_From_Camera_Feed.py to output a live depth man using the webcam as the input source.<br />
 <br />
-Run Metric_Depth_Prediction_Single_Image.py to load a photo and calculate a metric depth map of that photo and save it.
+Run Metric_Depth_Prediction_Single_Image.py to load a photo and calculate a metric depth map of that photo and save it.<br />
 <br />
 Please see below the links to the github, authors and paper regarding the Monocular Depth Estimation model DistDepth:<br />
 <br />
