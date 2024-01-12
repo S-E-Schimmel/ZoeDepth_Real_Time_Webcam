@@ -1,3 +1,9 @@
+Adapted version of DistDepth to use the webcam of a laptop as input.<br />
+<br />
+Run Metric_Depth_Prediction_From_Camera_Feed<br />
+<br />
+Please see below the links to the github, authors and paper regarding the Monocular Depth Estimation model DistDepth:<br />
+<br />
 # **ZoeDepth: Combining relative and metric depth** (Official implementation)  <!-- omit in toc -->
 [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/isl-org/ZoeDepth)
 [![Open in Spaces](https://huggingface.co/datasets/huggingface/badges/raw/main/open-in-hf-spaces-sm.svg)](https://huggingface.co/spaces/shariqfarooq/ZoeDepth)
