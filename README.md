@@ -1,4 +1,4 @@
-Adapted version of DistDepth to use the webcam of a laptop as input.<br />
+Adapted version of ZoeDepth to use the webcam of a laptop as input.<br />
 <br />
 Run Metric_Depth_Prediction_From_Camera_Feed.py to output a live depth man using the webcam as the input source.<br />
 <br />
